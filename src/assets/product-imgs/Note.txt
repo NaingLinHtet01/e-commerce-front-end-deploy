@@ -1,0 +1,7 @@
+01 to 10(44,45,46) = Men
+11 to 20(41,42,43) = Women
+21 to 30 = kid boy
+31 to 40 = kid girl
+
+kids suit(47 to 50)
+ 
